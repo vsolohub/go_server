@@ -1,0 +1,43 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "IkPM2QLv9urri7S49wzroQx9oXA=",
+			"path": "github.com/gorilla/context",
+			"revision": "08b5f424b9271eedf6f9f0ce86cb9396ed337a42",
+			"revisionTime": "2016-08-17T18:46:32Z"
+		},
+		{
+			"checksumSHA1": "u+yjS8ZLCVRmjsMh26jHaJ4itTc=",
+			"path": "github.com/gorilla/mux",
+			"revision": "ded0c29b24f96f46cf349e6701b099db601cf8ec",
+			"revisionTime": "2018-05-01T03:11:36Z"
+		},
+		{
+			"checksumSHA1": "dTdj+Iu1sgqA9DGdR1xapBbknFc=",
+			"path": "github.com/jinzhu/gorm",
+			"revision": "9044197ef935c0969d94cbcfba55ccb94d269bed",
+			"revisionTime": "2018-05-02T14:38:52Z"
+		},
+		{
+			"checksumSHA1": "mfb/EusMwfajCPq0lwLWM/pvqI4=",
+			"path": "github.com/jinzhu/inflection",
+			"revision": "04140366298a54a039076d798123ffa108fff46c",
+			"revisionTime": "2018-03-08T03:36:59Z"
+		},
+		{
+			"checksumSHA1": "mfUP2KY8h5FfjT0RIaskGCBrAig=",
+			"path": "github.com/lib/pq",
+			"revision": "d34b9ff171c21ad295489235aec8b6626023cd04",
+			"revisionTime": "2018-03-27T07:18:24Z"
+		},
+		{
+			"checksumSHA1": "GX2hcQP8YqrXH+laJJIxUFsqoxU=",
+			"path": "github.com/lib/pq/oid",
+			"revision": "d34b9ff171c21ad295489235aec8b6626023cd04",
+			"revisionTime": "2018-03-27T07:18:24Z"
+		}
+	],
+	"rootPath": "github.com/AndriyStasyuk/Go_server"
+}
